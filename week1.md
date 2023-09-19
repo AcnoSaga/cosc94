@@ -82,3 +82,5 @@ We do not seem to need any further support at this point for our project.
 ## 6. Additional Notes
 
 We hope for the best as the weeks progress, and hope we'll be able to complete the project without delays.
+
+### [Link for Collab Notebook](https://colab.research.google.com/drive/1HMPFAtRou1qToG1qfFgrEsfe4_S4qIAB?usp=sharing)
