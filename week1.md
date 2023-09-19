@@ -33,7 +33,7 @@ We do this by encoding the text into discrete symbols under a phenome-based sche
 
 Please note that we are using the Tacotron2 pretrained model to develop the text-to-speech system, and thus our preprocessing will correspond to the requirements of this model.
 
-Firstly, we need the [`DeepPhenomizer`](https://github.com/as-ideas/DeepPhonemizer) library to be installed py pip3 using:
+Firstly, we need the [`DeepPhonemizer`](https://github.com/as-ideas/DeepPhonemizer) library to be installed py pip3 using:
 ```bash
 pip3 install deep-phonemizer
 ```
