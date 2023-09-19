@@ -13,12 +13,10 @@
 
 ## 2. Accomplishments
 
-A list of tasks and milestones that have been accomplished over the week.
+Tasks and milestones that have been accomplished over the week:
 
-- Task/Milestone 1
-- Task/Milestone 2
-- Task/Milestone 3
-- ...
+### 2.1. Tacotron2-based spectogram generation pipeline
+
 
 ---
 
@@ -35,23 +33,18 @@ Discuss any challenges encountered during the week and the solutions used to ove
 ---
 
 ## 4. Upcoming Tasks
-
-A list of tasks and deliverables that are projected for the upcoming week.
-
-- Upcoming Task/Deliverable 1
-- Upcoming Task/Deliverable 2
-- Upcoming Task/Deliverable 3
-- ...
+This is a list of tasks and deliverables that are projected for the upcoming week:
+* Making the Tacotron-2 based Waveform generation pipeline (which will generate the sound based on the spectogram generated through this week's work).
+* Writing the weekly Markdown report.
 ---
 ## 5. Requests for Assistance
-
-Any areas where additional resources or support are needed.
+We do not seem to need any further support at this point for our project.
 
 ---
 
 ## 6. Additional Notes
 
-Any other important information that should be shared.
+We hope for the best as the weeks progress, and hope we'll be able to complete the project without delays.
 
 ## 7. Google Colab link
 Here is the [link to the Google Colab Notebook](https://colab.research.google.com/drive/1zQ8nwXlbIua2XEg9zxjAkoQnOgykd2EZ?usp=sharing)
