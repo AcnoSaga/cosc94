@@ -1,6 +1,6 @@
 # Weekly Project Progress Report
 
-## Week Ending: 09/24/2023
+## Week Ending: 09-24-2023
 
 ### Week theme: Tacotron2-based spectrogram generation pipeline
 
@@ -8,7 +8,7 @@
 
 ## 1. Overview of the week
 
-This week, we continue work on our tex-to-speech model, for which we created a phoneme-based text encoding last week. In this week's submission, we will generate an audio spectrogram from the generated phoneme encodings, which will later be used to actually generate the final audio output, which, due to the nature of the spectrograms we use (mel spectrograms), will be well-suited for encoding human speech.
+This week, we continue work on our text-to-speech model, for which we created a phoneme-based text encoding last week. In this week's submission, we will generate an audio spectrogram from the generated phoneme encodings, which will later be used to actually generate the final audio output, which, due to the nature of the spectrograms we use (mel spectrograms), will be well-suited for encoding human speech.
 
 ---
 

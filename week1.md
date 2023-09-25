@@ -1,6 +1,6 @@
 # Weekly Project Progress Report
 
-## Week Ending: 09/17/2023
+## Week Ending: 09-17-2023
 
 ### Project Name: COSC 094
 
