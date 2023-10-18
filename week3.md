@@ -103,6 +103,4 @@ There is no other information worth noting, but if it ever arises it will be sha
 
 ## 7. Google Colab link
 
-Here is the [link to the Google Colab Notebook](https://colab.research.google.com/drive/1zQ8nwXlbIua2XEg9zxjAkoQnOgykd2EZ?usp=sharing)
-
-—
+Here is the [link to the Google Colab Notebook](https://colab.research.google.com/drive/1Jp5YbA-cZmKR20L5zOi3p3YC9bwbVskN?usp=sharing)
